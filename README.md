@@ -159,6 +159,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 📧 Contact
 
-Your Name - your.email@example.com
+Your Name - Akshay Sain
 
 Project Link: [https://github.com/yourusername/solar-system-portfolio](https://github.com/akshaysenn/Solar-System)
